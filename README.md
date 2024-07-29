@@ -9,7 +9,7 @@ My name is Joey. Here's a little bit about me and some projects I've worked (or 
 - [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) - random forest and LSTM models for financial time series classification 📈
 
 #### music
-- [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a violin repertoire search and recommendation web app 🎻
+- [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a full-stack web app for violin repertoire exploration and recommendation 🎻
 
 #### language
 - [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) - generate your own fresh Dostoevsky and Tolstoy with GPTs trained on Russian text and Slavic literature ✍️
