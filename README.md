@@ -4,15 +4,15 @@ My name is Joey. Here's a little bit about me and some projects I've worked (or 
 ### I like...
 
 #### training models on large (and small) datasets
-- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) - models for generating dynamics from motion 🦵
+- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) (WIP) - models for generating dynamics from motion 🦵
 - [MiniDiffusion](https://github.com/jbejjani2022/MiniDiffusion.git) - implementing [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) for image generation 🏞️
-- [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) - random forest and LSTM models for financial time series classification 📈
+- [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) (WIP) - random forest and LSTM models for financial time series classification 📈
 
 #### music
 - [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a full-stack web app for violin repertoire exploration and recommendation 🎻
 
 #### language
-- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) - generate your own fresh Dostoevsky and Tolstoy with GPTs trained on Russian text and Slavic literature ✍️
+- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate your own fresh Dostoevsky and Tolstoy with GPTs trained on Russian text and Slavic literature ✍️
 - [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle 🪶
 
 #### math
