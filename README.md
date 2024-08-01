@@ -1,4 +1,4 @@
-## About ME
+## About Me
 
 Here's a little bit about me and some projects I've worked (or am working) on.
 ### I like...
