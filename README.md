@@ -4,7 +4,7 @@ My name is Joey. Here's a little bit about me and some projects I've worked (or 
 ### I like...
 
 #### training models on large (and small) datasets
-- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) (WIP) - models for generating dynamics from motion 🦵
+- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) (WIP) - models for generating dynamics from motion (I am currently working out of the `dynamics_inference` and `diffusion` branches) 🦵
 - [MiniDiffusion](https://github.com/jbejjani2022/MiniDiffusion.git) - implementing [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) for image generation 🏞️
 - [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) (WIP) - random forest and LSTM models for financial time series classification 📈
 
