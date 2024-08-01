@@ -1,6 +1,6 @@
 ## Hi! 🐒
 
-My name is Joey. Here's a little bit about me and some projects I've worked (or am working) on.
+Here's a little bit about me and some projects I've worked (or am working) on.
 ### I like...
 
 #### training models on large (and small) datasets
