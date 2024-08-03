@@ -23,7 +23,7 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 #### other fun things
 - [SnakeCube](https://github.com/jbejjani2022/SnakeCube.git) - Snake, but 3D...and with LEDs! 🐍
 - [PodcastPal](https://github.com/jbejjani2022/PodcastPal.git) - chat with an AI assistant about a Lex Fridman podcast episode 🤖
-- [MiniML](https://github.com/jbejjani2022/MiniML.git) - some OCaml metacircular interpreters 🐪
+- [MiniML](https://github.com/jbejjani2022/MiniML.git) - some OCaml metacircular interpreters manifesting varying semantics 🐪
 
 ---
 ### Tech Stack
