@@ -25,6 +25,15 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 - [PodcastPal](https://github.com/jbejjani2022/PodcastPal.git) - chat with an AI assistant about a Lex Fridman podcast episode 🤖
 - [MiniML](https://github.com/jbejjani2022/MiniML.git) - some OCaml metacircular interpreters 🐪
 
+---
+### Tech Stack
+[![Langs](https://skillicons.dev/icons?i=python,cpp,c,ocaml,java,r,sqlite&theme=dark)](https://skillicons.dev)
+
+[![Web Dev](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=github,vscode,linux,figma,aws,docker&theme=dark)](https://skillicons.dev)
+
+
 <!--
 **jbejjani2022/jbejjani2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
