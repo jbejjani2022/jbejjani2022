@@ -31,7 +31,9 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 
 [![Web Dev](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=github,vscode,linux,figma,aws,docker&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=pytorch,django,flask&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=linux,figma,aws,docker&theme=dark)](https://skillicons.dev)
 
 
 <!--
