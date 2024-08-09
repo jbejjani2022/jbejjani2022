@@ -18,7 +18,7 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 - [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle 🪶
 
 #### math
-- [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a linear algebra approach to graph theory ✖️
+- [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a paper applying linear algebra to graph theory in the context of network analysis, with a Python application analyzing the connectivity of a collaboration network of jazz musicians 🕸️
 
 #### other fun things
 - [SnakeCube](https://github.com/jbejjani2022/SnakeCube.git) - Snake, but 3D...and with LEDs! 🐍
