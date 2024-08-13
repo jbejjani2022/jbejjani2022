@@ -14,11 +14,11 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 - [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a full-stack web app for violin repertoire exploration and recommendation 🎻
 
 #### language
-- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate your own fresh Dostoevsky and Tolstoy with GPTs trained on Russian text and Slavic literature ✍️
+- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate fresh Dostoevsky and Tolstoy with GPTs trained on Russian text and literature scraped from the web ✍️
 - [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle 🪶
 
 #### math
-- [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a paper applying linear algebra to graph theory in the context of network analysis, with a Python application analyzing the connectivity of a collaboration network of jazz musicians 🕸️
+- [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a paper applying linear algebra to graph theory to solve network analysis problems, with a Python application analyzing the connectivity of a collaboration network of jazz musicians 🕸️
 
 #### other fun things
 - [SnakeCube](https://github.com/jbejjani2022/SnakeCube.git) - Snake, but 3D...and with LEDs! 🐍
@@ -27,11 +27,11 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 
 ---
 ### Tech Stack
-[![Langs](https://skillicons.dev/icons?i=python,cpp,c,ocaml,java,r,sqlite&theme=dark)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=python,cpp,c,sqlite,go,ocaml,java,r&theme=dark)](https://skillicons.dev)
 
-[![Web Dev](https://skillicons.dev/icons?i=js,ts,html,css&theme=dark)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=js,ts,svelte,html,css&theme=dark)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=pytorch,django,flask&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=pytorch,flask,django&theme=dark)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=linux,figma,aws,docker&theme=dark)](https://skillicons.dev)
 
