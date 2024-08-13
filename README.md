@@ -14,7 +14,7 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 - [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a full-stack web app for violin repertoire exploration and recommendation 🎻
 
 #### language
-- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate fresh Dostoevsky and Tolstoy with GPTs trained on Russian text and literature scraped from the web ✍️
+- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate fresh Dostoevsky and Tolstoy with GPTs trained on Russian language scraped from the web ✍️
 - [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle 🪶
 
 #### math
