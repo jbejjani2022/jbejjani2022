@@ -15,7 +15,7 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 
 #### language
 - [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate fresh Dostoevsky and Tolstoy with GPTs trained on Russian language scraped from the web ✍️
-- [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle 🪶
+- [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle with the Bard reacting as you play 🪶
 
 #### math
 - [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a paper applying linear algebra to graph theory to solve network analysis problems, with a Python application analyzing the connectivity of a collaboration network of jazz musicians 🕸️
