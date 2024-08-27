@@ -27,13 +27,13 @@ I'm a junior at Harvard studying computer science and statistics. Here are some 
 
 ---
 ### Tech Stack
-[![Langs](https://skillicons.dev/icons?i=python,cpp,c,sqlite,go,ocaml,java,r&theme=dark)](https://skillicons.dev)
+[![Langs](https://skillicons.dev/icons?i=python,cpp,c,go,ocaml,r,java&theme=dark)](https://skillicons.dev)
 
 [![Web Dev](https://skillicons.dev/icons?i=js,ts,svelte,html,css&theme=dark)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=pytorch,flask,django&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=pytorch,flask,sqlite,mysql&theme=dark)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=linux,figma,aws,docker&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,linux,figma,aws&theme=dark)](https://skillicons.dev)
 
 
 <!--
