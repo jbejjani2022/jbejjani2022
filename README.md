@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a junior at Harvard studying computer science and statistics. Here are some projects I've worked (or am working) on.
+Hi! I'm a junior at Harvard studying computer science and statistics. Here are some projects I've worked (or am working) on.
 
 ### I like...
 
