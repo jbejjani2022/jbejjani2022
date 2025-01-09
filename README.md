@@ -5,9 +5,9 @@ Hi! I'm a junior at Harvard studying computer science and statistics. Here are s
 ### I like...
 
 #### training models on large (and small) datasets
-- [Prune As You Tune](https://github.com/jbejjani2022/prune-as-you-tune) - parameter-efficient fine-tuning integrated with model compression, while mitigating catastrophic forgetting
+- [Prune As You Tune](https://github.com/jbejjani2022/prune-as-you-tune) - compress your neural network during parameter-efficient fine-tuning, while mitigating catastrophic forgetting
 - [Explain This, Pruner!](https://github.com/camilobrownpinilla/Explain-This-Pruner) - an investigation of the effect of model pruning on LLM explainability and curvature
-- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) - models for motion generation and dynamics prediction, trained on [AddBiomechanics](https://addbiomechanics.org/download_data.html) dataset 🦵
+- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) - models for motion generation and dynamics prediction, trained on the [AddBiomechanics](https://addbiomechanics.org/download_data.html) dataset 🦵
     - I developed the `dynamics_inference` and `diffusion` branches with [camilobrownpinilla](https://github.com/camilobrownpinilla)
 - [MiniDiffusion](https://github.com/jbejjani2022/MiniDiffusion.git) - implementation of [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) for image generation 🏞️
 - [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) (WIP) - random forest and LSTM models for financial time series classification 📈
