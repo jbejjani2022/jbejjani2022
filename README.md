@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I'm a junior at Harvard studying computer science and statistics. Here are some projects I've worked (or am working) on.
+Hi! I'm a junior at Harvard studying computer science and statistics. Here are some projects I've worked on.
 
 ### I like...
 
@@ -10,13 +10,13 @@ Hi! I'm a junior at Harvard studying computer science and statistics. Here are s
 - [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) - models for motion generation and dynamics prediction, trained on the [AddBiomechanics](https://addbiomechanics.org/download_data.html) dataset 🦵
     - I developed the `dynamics_inference` and `diffusion` branches with [camilobrownpinilla](https://github.com/camilobrownpinilla)
 - [MiniDiffusion](https://github.com/jbejjani2022/MiniDiffusion.git) - implementation of [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) for image generation 🏞️
-- [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) (WIP) - random forest and LSTM models for financial time series classification 📈
+- [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) - random forest and LSTM models for financial time series classification 📈
 
 #### music
 - [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a full-stack web app for violin repertoire exploration and recommendation 🎻
 
 #### language
-- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) (WIP) - generate fresh Dostoevsky and Tolstoy with GPTs trained on Russian language scraped from the web ✍️
+- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) - GPTs trained on Russian language scraped from the web ✍️
 - [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle with the Bard reacting as you play 🪶
 
 #### math
