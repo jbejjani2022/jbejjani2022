@@ -23,6 +23,7 @@ Hi! I'm a junior at Harvard studying computer science and statistics. Here are s
 - [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a paper applying linear algebra to graph theory to solve network analysis problems, with a Python application analyzing the connectivity of a collaboration network of jazz musicians 🕸️
 
 #### other fun things
+- [golden-arm](https://github.com/jbejjani2022/golden-arm.git) - the official web application for Harvard's student-run movie theater, with seat booking, film festivals, an admin content management system, and more 🎥
 - [SnakeCube](https://github.com/jbejjani2022/SnakeCube.git) - Snake, but 3D...and with LEDs! 🐍
 - [PodcastPal](https://github.com/jbejjani2022/PodcastPal.git) - an AI assistant for chatting about online articles, YouTube videos, or Lex Fridman podcast episodes via RAG 🤖
 - [MiniML](https://github.com/jbejjani2022/MiniML.git) - OCaml metacircular interpreters manifesting varying semantics 🐪
