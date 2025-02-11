@@ -2,6 +2,8 @@
 
 Hi! I'm a junior at Harvard studying computer science and statistics. Here are some projects I've worked on.
 
+(Check out my most recent project [golden-arm](https://github.com/jbejjani2022/golden-arm.git)!)
+
 ### I like...
 
 #### training models on large (and small) datasets
