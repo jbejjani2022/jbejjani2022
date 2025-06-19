@@ -1,7 +1,3 @@
-## About Me
-
-Hi! I'm a junior at Harvard studying computer science and statistics. Here are some projects I've worked on.
-
 ### I like...
 
 #### training models on large (and small) datasets
