@@ -21,7 +21,7 @@
 #### other fun things
 - [golden-arm](https://github.com/jbejjani2022/golden-arm.git) - the official web application for Harvard's student-run movie theater, with seat booking, archives, a merch shop, an admin content management system, and more 🎥
 - [SnakeCube](https://github.com/jbejjani2022/SnakeCube.git) - Snake, but 3D...and with LEDs! 🐍
-- [PodcastPal](https://github.com/jbejjani2022/PodcastPal.git) - an AI assistant for chatting about online articles, YouTube videos, or Lex Fridman podcast episodes via RAG 🤖
+- [PodcastPal](https://github.com/jbejjani2022/PodcastPal.git) - an AI assistant for chatting about online articles, YouTube videos, or Lex Fridman podcast episodes 🤖
 - [MiniML](https://github.com/jbejjani2022/MiniML.git) - OCaml metacircular interpreters manifesting varying semantics 🐪
 
 ---
