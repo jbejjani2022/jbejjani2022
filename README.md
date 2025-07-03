@@ -25,6 +25,7 @@
 - [MiniML](https://github.com/jbejjani2022/MiniML.git) - OCaml metacircular interpreters manifesting varying semantics 🐪
 
 ---
+<!--
 ### Tech Stack
 [![Langs](https://skillicons.dev/icons?i=python,cpp,c,go,ocaml,r,java&theme=dark)](https://skillicons.dev)
 
@@ -35,7 +36,6 @@
 [![Tools](https://skillicons.dev/icons?i=docker,linux,figma,aws&theme=dark)](https://skillicons.dev)
 
 
-<!--
 **jbejjani2022/jbejjani2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
