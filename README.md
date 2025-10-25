@@ -1,28 +1,6 @@
-### I like...
+### Hi!
 
-#### training models on large (and small) datasets
-- [Prune As You Tune](https://github.com/jbejjani2022/prune-as-you-tune) - compress your neural network during parameter-efficient fine-tuning, while remembering pre-training knowledge
-- [Explain This, Pruner!](https://github.com/camilobrownpinilla/Explain-This-Pruner) - an investigation of the effect of model pruning on LLM explainability and curvature
-- [InferBiomechanics](https://github.com/jbejjani2022/InferBiomechanics.git) - models for motion generation and dynamics prediction, trained on the [AddBiomechanics](https://addbiomechanics.org/download_data.html) dataset 🦵
-    - I developed the `dynamics_inference` and `diffusion` branches with [camilobrownpinilla](https://github.com/camilobrownpinilla)
-- [MiniDiffusion](https://github.com/jbejjani2022/MiniDiffusion.git) - implementation of [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) for image generation 🏞️
-- [TimeSeriesForecasting](https://github.com/jbejjani2022/TimeSeriesForecasting.git) - random forest and LSTM models for financial time series classification 📈
-
-#### music
-- [VioLibrary](https://github.com/jbejjani2022/VioLibrary.git) - a full-stack web app for violin repertoire exploration and recommendation 🎻
-
-#### language
-- [SlavicGPT](https://github.com/jbejjani2022/SlavicGPT.git) - GPTs trained on Russian language scraped from the web ✍️
-- [bardle](https://jbejjani2022.github.io/bardle/) - a Shakespearean wordle with the Bard reacting as you play 🪶
-
-#### math
-- [NetworkConnectivity](https://github.com/jbejjani2022/NetworkConnectivity.git) - a paper applying linear algebra to graph theory to solve network analysis problems, with a Python application analyzing the connectivity of a collaboration network of jazz musicians 🕸️
-
-#### other fun things
-- [golden-arm](https://github.com/jbejjani2022/golden-arm.git) - the official web application for Harvard's student-run movie theater, with seat booking, archives, a merch shop, an admin content management system, and more 🎥
-- [SnakeCube](https://github.com/jbejjani2022/SnakeCube.git) - Snake, but 3D...and with LEDs! 🐍
-- [PodcastPal](https://github.com/jbejjani2022/PodcastPal.git) - an AI assistant for chatting about online articles, YouTube videos, or Lex Fridman podcast episodes 🤖
-- [MiniML](https://github.com/jbejjani2022/MiniML.git) - OCaml metacircular interpreters manifesting varying semantics 🐪
+I'm interested in AI safety and alignment, multi-agent systems, and evolutionary computation. I'm currently working on problems in these areas at the Kempner Institute at Harvard.
 
 ---
 <!--
