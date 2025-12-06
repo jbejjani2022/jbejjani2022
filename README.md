@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm interested in AI safety and alignment, multi-agent systems, and evolutionary computation. I'm currently working on problems in these areas at the Kempner Institute at Harvard.
+I'm interested in technical AI safety and alignment, multi-agent systems, and evolutionary computation. I'm currently working on problems in these areas at the Kempner Institute at Harvard.
 
 ---
 <!--
